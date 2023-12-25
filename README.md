@@ -15,3 +15,16 @@ $ cd demo
 open the vs code using-- code . cmd
 $ cd demo
 
+add your task, code, any changes in local system
+$
+
+we add out work to remote system using-- git add . cmd
+$ git add .
+
+commant that file on remote system using-- git commit -m "Your commit message here"
+$ git commit -m "new updated commands"
+
+then we push out local system file codes on remote system using--push cmd
+$ git push
+
+
