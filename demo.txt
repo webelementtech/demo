@@ -1,0 +1,14 @@
+Requirements
+
+Front-end Development
+    technology
+            HTML
+            CSS
+            JS
+
+Back-end Development
+    technology3
+            PHP
+            JAVA
+            Python 
+            .Net
