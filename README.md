@@ -1,3 +1,6 @@
+Intern Batch 2024-25
+
+
 $ GitHub Commands 
 
 Create a github repo 
@@ -18,8 +21,8 @@ $ cd demo
 add your task, code, any changes in local system
 $
 
-we add out work to remote system using-- git add . cmd
-$ git add .
+we add ou work to remote system using-- git add . cmd
+$ git add .t
 
 commant that file on remote system using-- git commit -m "Your commit message here"
 $ git commit -m "new updated commands"
